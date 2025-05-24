@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-ollama
+langgraph
+typing-extensions
+ipython
+requests
+streamlit==1.24.0
+python-dotenv
